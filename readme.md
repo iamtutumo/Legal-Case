@@ -23,6 +23,7 @@ Manage all your Appointments with new and existing client.
 Multiple users can access the application and update their cases simultaneously.
 
 `Server Requirements`
+
 -PHP >= 7.2.0
 
 -BCMath PHP Extension
