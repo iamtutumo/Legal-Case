@@ -23,12 +23,21 @@ Manage all your Appointments with new and existing client.
 Multiple users can access the application and update their cases simultaneously.
 
 `Server Requirements`
-PHP >= 7.2.0
-BCMath PHP Extension
-Ctype PHP Extension
-JSON PHP Extension
-Mbstring PHP Extension
-OpenSSL PHP Extension
-PDO PHP Extension
-Tokenizer PHP Extension
-XML PHP Extension
+-PHP >= 7.2.0
+
+-BCMath PHP Extension
+
+-Ctype PHP Extension
+
+-JSON PHP Extension
+
+-Mbstring PHP Extension
+
+-OpenSSL PHP Extension
+
+-PDO PHP Extension
+
+-Tokenizer PHP Extension
+
+-XML PHP Extension
+
